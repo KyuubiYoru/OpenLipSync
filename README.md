@@ -1,5 +1,10 @@
 # OpenLipSync
 
+**This repo is archived and not maintained anymore. I don’t have the time or energy to get OpenLipSync to where I’d want it to be.
+Feel free to fork it and use it as a base for your own stuff.**
+
+
+
 **Experimental work-in-progress project**
 
 An open-source, cross-platform project that converts audio input into realistic facial expressions in real-time following the [MPEG-4 (FBA)](https://visagetechnologies.com/uploads/2012/08/MPEG-4FBAOverview.pdf) standard.
